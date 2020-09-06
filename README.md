@@ -3,13 +3,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar1024&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
 <a href="https://twitter.com/pnutbutter_jar">
-  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/omar1024">
-  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://instagram.com/peanetbutter.jar/">
-  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <br/>
@@ -20,7 +20,7 @@
 - 🔭 I’m currently working on Vue webapp
 - 🌱 I’m currently learning Backend and Node.
 - 👯 I’m looking to collaborate on Flutter Projects.
-- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/pnutbutter_jar)
+- 📫 How to reach me: [Twitter - @pnutbutter_jar](https://twitter.com/pnutbutter_jar)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend most of my time debugging.
 
