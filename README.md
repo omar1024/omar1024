@@ -1,16 +1,41 @@
-### Hi there 👋
+## Hola, I'm [Omar!](https://omars.live) 👋
 
-<!--
-**omar1024/omar1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omar1024&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
-Here are some ideas to get you started:
+<a href="https://twitter.com/pnutbutter_jar">
+  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/omar1024">
+  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://instagram.com/peanetbutter.jar/">
+  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<br/>
+
+
+
+- 🔭 I’m currently working on Vue webapp
+- 🌱 I’m currently learning Backend and Node.
+- 👯 I’m looking to collaborate on Flutter Projects.
+- 📫 How to reach me: [Twitter - @imthepk](https://twitter.com/pnutbutter_jar)
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I spend most of my time debugging.
+
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+
+<a href="https://github.com/omar1024">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar1024&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/omar1024">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=omar1024&show_icons=true&theme=light&line_height=27" alt="Omar's github stats"/>
+</a>
