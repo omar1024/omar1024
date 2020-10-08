@@ -1,7 +1,5 @@
 ## Hola, I'm [Omar!](https://omars.live) 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omar1024&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
-
 <a href="https://twitter.com/pnutbutter_jar">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -30,3 +28,4 @@
 <a href="https://github.com/omar1024">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=omar1024&show_icons=true&theme=light&line_height=27" alt="Omar's github stats"/>
 </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omar1024&label=Views&color=blue&style=plastic" alt="omar1024" /> </p>
