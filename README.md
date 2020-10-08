@@ -17,12 +17,12 @@
 
 
 
-- 🔭 I’m currently working on Vue webapp
-- 🌱 I’m currently learning Backend and Node.
-- 👯 I’m looking to collaborate on Flutter Projects.
-- 📫 How to reach me: [Twitter - @pnutbutter_jar](https://twitter.com/pnutbutter_jar)
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I spend most of my time debugging.
+- I’m currently working on Vue webapp
+- I’m currently learning Backend and Node.
+- I’m looking to collaborate on Flutter Projects.
+- How to reach me: [Twitter - @pnutbutter_jar](https://twitter.com/pnutbutter_jar)
+- Pronouns: He/His
+-
 
 
 **Languages and Tools:**  
