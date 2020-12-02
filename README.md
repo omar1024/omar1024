@@ -11,7 +11,9 @@
 <br/>
 
 - I’m currently learning Backend and Node.
-- I’m looking to collaborate on [Compilers Projects](http://silcnitc.github.io/)
+- I'm okay with React and Vue.
+- I’m looking to collaborate on [Compilers Design Project](http://silcnitc.github.io/)
+- Willing to collaborate for Open Source Projects
 
 
 
