@@ -1,7 +1,6 @@
 Hey!
 - I’m currently learning Backend and Node.
-- I'm okay with React and Vue.
-- I’m looking for maintainers for a Vue/firebase website.
+- I'm okay with React and Vue
 - Willing to collaborate for Open Source Projects
 
 
