@@ -2,7 +2,7 @@ Hey!
 - I’m currently learning Backend and Node.
 - I'm okay with React and Vue
 - Willing to collaborate for Open Source Projects
-- Currently working on ExpL compiler, Nuxt website and React App
+- Currently working on ExpL compiler, Nuxt website
 
 
 
