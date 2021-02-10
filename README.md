@@ -1,6 +1,7 @@
-Hey!
-- I’m currently learning Backend and Node.
+Hey myself [omar](omar1024.github.io)!
+
 - I'm okay with React and Vue
+- I’m currently learning Backend and Node.
 - Willing to collaborate for Open Source Projects
 - Currently working on ExpL compiler, Nuxt website
 
