@@ -1,7 +1,7 @@
-Hey myself [omar](https://omar1024.github.io)!
+### Hey myself [omar](https://omar1024.github.io)!
 <div align="center" style="background-color:#000">
   <div>
-  <img src="omar1024.gif" width="298" height="384">
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=omar1024&show_icons=true&count_private=true&theme=dark&hide_title=true" alt="Omar1024" /> </p>
   </div>
 
   **Willing to collab for**  
@@ -14,7 +14,7 @@ Hey myself [omar](https://omar1024.github.io)!
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-
-
+  <br/>
+  <br/>
+  <p> <img src="https://komarev.com/ghpvc/?username=omar1024&label=Views&color=blue&style=plastic" alt="omar1024" /> </p>
 </div>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omar1024&label=Views&color=blue&style=plastic" alt="omar1024" /> </p>
